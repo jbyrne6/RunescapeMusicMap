@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* body, html {
   height: 100%;
   margin: 0;
@@ -25,12 +26,26 @@ svg{
   margin-right: auto;
   width: 100%;
   /* position:fixed;
+=======
+body, html {
+  height: 100%;
+  margin: 0;
+  padding:0;
+  background-image: url("../img/black.jpg")
+}
+svg{
+  position:fixed;
+>>>>>>> 0c369c5ba55c6f4c599ac947e92c4ec4fc2e1304
   top:0;
   bottom:0;
   height:100%;
   left:0;
   right:0;
+<<<<<<< HEAD
   width:100%; */
+=======
+  width:100%;
+>>>>>>> 0c369c5ba55c6f4c599ac947e92c4ec4fc2e1304
 }
 #Harmony,
 #NewbieMelody,
